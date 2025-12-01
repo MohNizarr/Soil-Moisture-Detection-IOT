@@ -1,5 +1,7 @@
 # Soil Moisture Detection using ESP8266
 
+![Soil Moisture IoT](iot.png)
+
 This project is a soil moisture detection system using the **ESP8266** microcontroller integrated with the **Blynk** Internet of Things (IoT) platform for real-time monitoring and notifications.
 
 ### Video Demo
